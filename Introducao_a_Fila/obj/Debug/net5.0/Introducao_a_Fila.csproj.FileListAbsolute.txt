@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\bin\Debug\net5.0\Introducao_a_Fila.exe
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\bin\Debug\net5.0\Introducao_a_Fila.deps.json
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\bin\Debug\net5.0\Introducao_a_Fila.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\bin\Debug\net5.0\Introducao_a_Fila.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\bin\Debug\net5.0\Introducao_a_Fila.dll
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\bin\Debug\net5.0\Introducao_a_Fila.pdb
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.dll
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\refint\Introducao_a_Fila.dll
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.pdb
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\Introducao_a_Fila.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Estudos\Fila\Introducao_a_Fila\Introducao_a_Fila\obj\Debug\net5.0\ref\Introducao_a_Fila.dll
